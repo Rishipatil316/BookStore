@@ -38,3 +38,13 @@ The project focuses on backend development, API design, authentication, database
 ---
 
 ## 📂 Project Structure
+
+controllers/
+├── models/
+├── routes/
+├── middleware/
+├── config/
+├── utils/
+├── .env
+├── server.js
+└── package.json
